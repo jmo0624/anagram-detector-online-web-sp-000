@@ -8,4 +8,4 @@ class Anagram
   end
   
   def match(word_array)
-    
+    word_array.select 
